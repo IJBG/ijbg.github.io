@@ -3,7 +3,7 @@
 }
 
 /* Links and icons */
-a:link, .fa, .fas, .fab {
+.fa, .fas, .fab {
     color: #238b45 !important;
 }
 
