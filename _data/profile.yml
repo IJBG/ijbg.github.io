@@ -37,14 +37,14 @@ portrait_caption: >-
 
 education:
 - name: University of North Carolina at Chapel Hill
-  logo: /assets/images/badges/UNC_old_well.png
+  logo: assets/images/badges/UNC_old_well.png
   position: >- 
     Ecology, Energy, & Environment Program <br/>
     Ph.D. Candidate <br/>
     Hurlbert Lab
   date: Aug. 2022 - present
 - name: Tufts University
-  logo: /assets/images/badges/Tufts_blue.png
+  logo: assets/images/badges/Tufts_blue.png
   position: B.S. in Biology, B.S. in Environmental Studies
   date: Sep. 2017 - May 2021
 
